@@ -7,6 +7,6 @@ This is a slotmachine which runs on a Raspberry Pi 3B+, included by an RFID-Chip
 ## installation
 At first you need to install pygame on Raspberry Pi
 
-'''bash
+```bash
 pip3 install pygame
-'''
+```
