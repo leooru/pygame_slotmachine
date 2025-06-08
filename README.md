@@ -10,3 +10,10 @@ At first you need to install pygame on Raspberry Pi
 ```bash
 pip3 install pygame
 ```
+And then you need to install mfrc522 with an **venv in your project folder**
+
+```bash
+cd your/project/folder
+git clone https://github.com/pimylifeup/MFRC522-python.git
+cd /MFRC522-python
+```
